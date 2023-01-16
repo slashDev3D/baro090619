@@ -1,0 +1,47 @@
+.kboard-forum-one-poweredby {
+   
+    display: none;
+}
+
+a.kboard-forum-one-button-small, input.kboard-forum-one-button-small, button.kboard-forum-one-button-small {
+  
+    color: #fff !important;
+    background: #009688 !important;
+    border: 1px solid #009688 !important;
+ 
+}
+a.kboard-forum-one-button-search, input.kboard-forum-one-button-search, button.kboard-forum-one-button-search {
+ 
+    background: #009688!important;
+ 
+}
+
+a, .navbar .dropdown-menu li:hover > a, .navbar .dropdown-menu li:focus > a, .navbar .dropdown-menu li:active > a, .navbar .navbar-nav > li .dropdown-menu li:hover > a, body:not(.home) .navbar-default .navbar-nav > .active:not(.btn) > a, body:not(.home) .navbar-default .navbar-nav > .active:not(.btn) > a:hover, body:not(.home) .navbar-default .navbar-nav > .active:not(.btn) > a:focus, a:hover, .card-blog a.moretag:hover, .card-blog a.more-link:hover, .widget a:hover, .has-text-color.has-accent-color, p.has-text-color a {
+    color: #333;
+}
+#kboard-forum-one-latest table th {
+
+    background-color: #ededed;
+  
+}
+body:not(.woocommerce-page) button:not([class^="fl-"]):not(.hestia-scroll-to-top):not(.navbar-toggle):not(.close), body:not(.woocommerce-page) .button:not([class^="fl-"]):not(hestia-scroll-to-top):not(.navbar-toggle):not(.add_to_cart_button), div.wpforms-container .wpforms-form button[type=submit].wpforms-submit, input[type="submit"], input[type="button"], .btn.btn-primary, .widget_product_search button[type="submit"], .hestia-sidebar-open.btn.btn-rose, .hestia-sidebar-close.btn.btn-rose, .everest-forms button[type=submit].everest-forms-submit-button {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+#kboard-inside-ask-latest table th {
+  
+    background-color: #ededed;
+}
+
+.kboard-pure-gallery-poweredby {
+    padding-bottom: 15px;
+    font-size: 13px;
+    overflow: hidden;
+    display: none;
+}
+
+.kboard-inside-ask-poweredby {
+   
+    display: none;
+}
